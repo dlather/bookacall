@@ -14,7 +14,7 @@ export const metadata = {
   publisher: "OneHash",
   slug: "office365-calendar",
   dirName: "office365calendar",
-  url: "https://www.onehash.ai",
+  url: "https://www.bookacall.me",
   email: "support@onehash.ai",
   isOAuth: true,
 } as AppMeta;

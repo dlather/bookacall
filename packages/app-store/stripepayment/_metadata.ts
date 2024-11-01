@@ -17,7 +17,7 @@ export const metadata = {
   publisher: "OneHash",
   title: "Stripe",
   type: "stripe_payment",
-  url: "https://www.onehash.ai",
+  url: "https://www.bookacall.me",
   docsUrl: "https://stripe.com/docs",
   variant: "payment",
   extendsFeature: "EventType",

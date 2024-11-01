@@ -15,7 +15,7 @@ export const metadata = {
   logo: "icon.svg",
   publisher: "OneHash",
   slug: "google-calendar",
-  url: "https://www.onehash.ai",
+  url: "https://www.bookacall.me",
   email: "support@onehash.ai",
   dirName: "googlecalendar",
   isOAuth: true,

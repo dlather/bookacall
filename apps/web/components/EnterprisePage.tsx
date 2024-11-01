@@ -55,7 +55,7 @@ export default function EnterprisePage() {
                 <Button color="primary" href="https://cal.id/team/sales" target="_blank">
                   {t("contact_sales")}
                 </Button>
-                <Button color="minimal" href="https://www.onehash.ai/cal" target="_blank">
+                <Button color="minimal" href="https://www.bookacall.me/cal" target="_blank">
                   {t("learn_more")}
                 </Button>
               </ButtonGroup>

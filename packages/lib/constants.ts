@@ -25,7 +25,7 @@ export const WEBAPP_URL_FOR_OAUTH = IS_PRODUCTION || IS_DEV ? WEBAPP_URL : "http
 /** @deprecated use `WEBAPP_URL` */
 export const BASE_URL = WEBAPP_URL;
 export const WEBSITE_URL = process.env.NEXT_PUBLIC_WEBSITE_URL || "https://cal.id";
-export const ONEHASH_URL = process.env.NEXT_PUBLIC_ONEHASH_URL || "https://www.onehash.ai";
+export const ONEHASH_URL = process.env.NEXT_PUBLIC_ONEHASH_URL || "https://www.bookacall.me";
 export const APP_NAME = process.env.NEXT_PUBLIC_APP_NAME || "OneHash Cal";
 export const SUPPORT_MAIL_ADDRESS = process.env.NEXT_PUBLIC_SUPPORT_MAIL_ADDRESS || "support@onehash.ai";
 export const COMPANY_NAME = process.env.NEXT_PUBLIC_COMPANY_NAME || "OneHash";
@@ -80,10 +80,10 @@ export const MSTILE_ICON = "/mstile-150x150.png";
 export const ANDROID_CHROME_ICON_192 = "/android-chrome-192x192.png";
 export const ANDROID_CHROME_ICON_256 = "/android-chrome-256x256.png";
 export const ROADMAP = "https://github.com/onehashai/onehash-cal/milestones";
-export const DESKTOP_APP_LINK = "https://www.onehash.ai";
+export const DESKTOP_APP_LINK = "https://www.bookacall.me";
 export const POWERED_BY_URL = `${WEBSITE_URL}/?utm_source=embed&utm_medium=powered-by-button`;
 export const DOCS_URL = "https://help.onehash.ai/en/";
-export const BLOGS_URL = "https://www.onehash.ai/blog";
+export const BLOGS_URL = "https://www.bookacall.me/blog";
 export const DEVELOPER_DOCS = "https://help.onehash.ai/en/";
 export const SEO_IMG_DEFAULT = `${WEBSITE_URL}/og-image.png`;
 // The Dynamic OG Image is passed through Next's Image API to further optimize it.

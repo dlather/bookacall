@@ -437,7 +437,7 @@ export const EventAdvancedTab = ({
         //     data-testid="hashedLinkCheck-info"
         //     target="_blank"
         //     rel="noreferrer"
-        //     href="https://www.onehash.ai/cal">
+        //     href="https://www.bookacall.me/cal">
         //     <Icon name="info" className="ml-1.5 h-4 w-4 cursor-pointer" />
         //   </a>
         // }

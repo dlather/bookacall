@@ -4,7 +4,7 @@
   "slug": "qr_code",
   "type": "qr_code_other",
   "logo": "icon.svg",
-  "url": "https://www.onehash.ai",
+  "url": "https://www.bookacall.me",
   "variant": "other",
   "categories": ["other"],
   "extendsFeature": "EventType",

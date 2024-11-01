@@ -1014,7 +1014,7 @@ export default function Success(props: PageProps) {
                       <span className="underline">
                         <a
                           target="_blank"
-                          href="https://www.onehash.ai/blog/googles-new-spam-policy-may-be-affecting-your-invitations">
+                          href="https://www.bookacall.me/blog/googles-new-spam-policy-may-be-affecting-your-invitations">
                           {t("resolve")}
                         </a>
                       </span>

@@ -218,7 +218,7 @@ export const BaseEmailHtml = (props: {
                 <Row border="0" style={{ borderCollapse: "collapse", borderSpacing: "0px" }}>
                   <td style={{ verticalAlign: "middle" }}>
                     <a
-                      href="https://www.onehash.ai/cal"
+                      href="https://www.bookacall.me/cal"
                       target="_blank"
                       rel="noreferrer"
                       style={{ textDecoration: "none", color: "#000000" }}>

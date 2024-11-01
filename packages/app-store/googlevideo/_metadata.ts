@@ -15,7 +15,7 @@ export const metadata = {
   variant: "conferencing",
   logo: "logo.webp",
   publisher: "OneHash",
-  url: "https://www.onehash.ai",
+  url: "https://www.bookacall.me",
   isGlobal: false,
   email: "support@onehash.ai",
   appData: {

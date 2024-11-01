@@ -41,7 +41,7 @@ function HomePage({ isLoggedIn }: { isLoggedIn: boolean }) {
   };
 
   const handleExploreIntegration = () => {
-    window.open("https://www.onehash.ai/integrations", "_blank");
+    window.open("https://www.bookacall.me/integrations", "_blank");
   };
 
   const trustedByLogos = [

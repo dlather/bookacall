@@ -15,7 +15,7 @@ export const metadata = {
   logo: "icon.svg",
   publisher: "OneHash",
   slug: "exchange2016-calendar",
-  url: "https://www.onehash.ai",
+  url: "https://www.bookacall.me",
   email: "support@onehash.ai",
   dirName: "exchange2016calendar",
   isOAuth: false,
